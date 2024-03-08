@@ -13,9 +13,10 @@ Find Boarding is a mobile application designed to help users find rental accommo
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 2024-01-18 220233](https://github.com/TuanFaied/find-boarding-frontend/assets/134178801/cab23b02-f9a1-4a79-ba89-cd4a2b459b49)
+![Screenshot 2024-01-18 220246](https://github.com/TuanFaied/find-boarding-frontend/assets/134178801/28cf2388-4646-401f-b6a8-7ec0ab9b6cfc)
+![Screenshot 2024-01-18 220301](https://github.com/TuanFaied/find-boarding-frontend/assets/134178801/07896dcc-a873-4415-8986-5099ec902cd6)
+![Screenshot 2024-01-18 220313](https://github.com/TuanFaied/find-boarding-frontend/assets/134178801/ca332863-adcb-48a8-a49a-8763a2214560)
 
 ## Getting Started
 
