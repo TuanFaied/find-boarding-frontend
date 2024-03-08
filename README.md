@@ -28,5 +28,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/TuanFaied/find-boarding-frontend.git
+2. Navigate to the project directory: find-boarding-frontend
+3. Install dependencies: flutter pub get
+4. Run the app: flutter run
+
+### Backend (Django)
+
+The backend of the Find Boarding app is implemented using Django. You can find the Django backend repository [here](https://github.com/TuanFaied/find-boarding-backend).
 
